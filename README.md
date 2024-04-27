@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Vidyanilaya](https://vidyanilaya.com)
+- 🔭 I’m currently working on [CodeBuy](https://codebuy.org)
 - 🌱 I’m currently learning SEO
 - 👯 I’m looking to collaborate on interesting App ideas
 - 🤔 I can help you with App & Web Development
